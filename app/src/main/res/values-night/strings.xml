@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_name">Nombre</string>
+    <string name="prompt_email">Correo electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="btn_validate">Verificar</string>
+    <string name="prompt_ciudadperdida">La Ciudad Perdida</string>
+    <string name="extraCiudadPerdida">Extra Ciudad Perdida</string>
+    <string name="prompt_renta">Renta $$$</string>
+    <string name="prompt_compra">Comprala $$$</string>
+    <string name="resumenCiudadPerdida">Resumen pelicula</string>
+</resources>

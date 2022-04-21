@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.laboratorio01.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.laboratorio01.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" >
+        <action
+            android:id="@+id/nav_gallery_to_cardView01"
+            app:destination="@id/cardView01" />
+        <action
+            android:id="@+id/nav_gallery_to_cardView02"
+            app:destination="@id/cardView02" />
+        <action
+            android:id="@+id/nav_gallery_to_cardView03"
+            app:destination="@id/cardView03" />
+        <action
+            android:id="@+id/nav_gallery_to_cardView04"
+            app:destination="@id/cardView04" />
+        <action
+            android:id="@+id/nav_gallery_to_cardView05"
+            app:destination="@id/cardView05" />
+    </fragment>
+    <fragment
+        android:id="@+id/cardView01"
+        android:name="com.example.laboratorio01.ui.gallery.CardView01Activity"
+        android:label="@string/prompt_ciudadperdida"
+        tools:layout="@layout/activity_card_view01" />
+    <fragment
+        android:id="@+id/cardView02"
+        android:name="com.example.laboratorio01.ui.gallery.CardView02Activity"
+        android:label="@string/prompt_Drstrange02"
+        tools:layout="@layout/activity_card_view02" />
+    <fragment
+        android:id="@+id/cardView03"
+        android:name="com.example.laboratorio01.ui.gallery.CardView03Activity"
+        android:label="@string/prompt_Sonic02"
+        tools:layout="@layout/activity_card_view03" />
+    <fragment
+        android:id="@+id/cardView04"
+        android:name="com.example.laboratorio01.ui.gallery.CardView04Activity"
+        android:label="@string/prompt_SecretoDumbledore"
+        tools:layout="@layout/activity_card_view04" />
+    <fragment
+        android:id="@+id/cardView05"
+        android:name="com.example.laboratorio01.ui.gallery.CardView05Activity"
+        android:label="@string/prompt_Thor04"
+        tools:layout="@layout/activity_card_view05" />
+
+</navigation>

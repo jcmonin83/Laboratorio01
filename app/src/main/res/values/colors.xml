@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="ciudad1">#BCA57B</color>
+    <color name="ciudad2">#2B190F</color>
+    <color name="ciudad3">#6B2E19</color>
+    <color name="ciudad4">#E3EEEE</color>
+    <color name="ciudad5">#98692C</color>
+
+    <color name="strange1">#360D0A</color>
+    <color name="strange2">#BE5440</color>
+    <color name="strange3">#8F2E22</color>
+    <color name="strange4">#A37458</color>
+    <color name="strange5">#72544C</color>
+
+    <color name="sonic1">#DB9B5C</color>
+    <color name="sonic2">#1A1328</color>
+    <color name="sonic3">#41BED2</color>
+    <color name="sonic4">#1351B5</color>
+    <color name="sonic5">#83492A</color>
+
+    <color name="dumbledore1">#DF9749</color>
+    <color name="dumbledore2">#24231A</color>
+    <color name="dumbledore3">#864F2B</color>
+    <color name="dumbledore4">#899D84</color>
+    <color name="dumbledore5">#828B8D</color>
+
+    <color name="thor1">#462F2D</color>
+    <color name="thor2">#E3B080</color>
+    <color name="thor3">#1C71BE</color>
+    <color name="thor4">#77B6E6</color>
+    <color name="thor5">#9D5634</color>
+
+
+</resources>

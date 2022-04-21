@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Laboratorio01</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Laboratorio01</string>
+    <string name="nav_header_subtitle">jose.monin@gmail.com</string>
+    <string name="nav_header_desc">Laboratorio01</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="prompt_name">Nombre</string>
+    <string name="prompt_email">Correo electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="btn_validate">Verificar</string>
+    <string name="prompt_ciudadperdida">La Ciudad Perdida</string>
+    <string name="extraCiudadPerdida">Extra Ciudad Perdida</string>
+    <string name="prompt_Drstrange02">Dr Strange 02</string>
+    <string name="extraDrStrange02">Multiverso de la locura</string>
+    <string name="prompt_Sonic02">Sonic 02</string>
+    <string name="extraSonic02">La prueba de fuego</string>
+    <string name="prompt_SecretoDumbledore">Animales Fantasticos</string>
+    <string name="extraSecretoDumbledore">Los secretos de Dumbledore</string>
+    <string name="prompt_Thor04">Thor 04</string>
+    <string name="extraThor04">Love and Thunder</string>
+    <string name="prompt_renta">Renta $$$</string>
+    <string name="prompt_compra">Comprala $$$</string>
+
+    <string name="resumenCiudadPerdida">Un modelo de portada viaja a una jungla exótica para rescatar a una escritora de aventuras de un excéntrico multimillonario.</string>
+    <string name="resumenDrStrange2">El Dr. Stephen Strange abre un portal al multiverso al utilizar un hechizo prohibido. Ahora su equipo debe enfrentarse a una amenaza enorme.</string>
+    <string name="resumenSonic2">Después de establecerse en Green Hills, Sonic quiere demostrar que tiene madera de héroe. La prueba de fuego llega con el retorno del malvado Robotnik, y su nuevo compinche, Knuckles, en busca de una esmeralda que destruye civilizaciones.</string>
+    <string name="resumenSecretosDumbledore">El profesor Albus Dumbledore (Jude Law) sabe que el poderoso mago oscuro Gellert Grindelwald (Mads Mikkelsen) está haciendo planes para apoderarse del mundo mágico.</string>
+    <string name="resumenThor4">Cuarta película sobre Thor del UCM, en la que el Dios del trueno contará con la poderosa Thor como acompañante, personaje que interpretará Natalie Portman.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
